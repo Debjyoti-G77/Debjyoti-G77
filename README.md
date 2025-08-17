@@ -3,7 +3,7 @@
 
 - Interests: Machine Learning, Big Data, Data Visualization, Open-Source, Problem Solving  
 - Tools: Python, R, SQL, scikit-learn, PyTorch, OpenCV, Spark, Hadoop, MySQL, ArcGIS, Power BI  
-- Contact: **debjyotiashu66@gmail.com** • LinkedIn: https://www.linkedin.com/in/debjyoti-sengupta-ds
+-Contact: **debjyotiashu66@gmail.com** • LinkedIn: https://www.linkedin.com/in/debjyoti-sengupta-68b50233b
 
 ## Selected Academic Projects (to be uploaded)
 - Rainfall Prediction (Australia) — Regression & classification (Python/R)
