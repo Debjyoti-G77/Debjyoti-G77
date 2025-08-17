@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Debjyoti Sengupta 👋
+**M.Sc. Data Science** (Symbiosis Institute of Geoinformatics) • **B.Sc. Statistics** (University of Calcutta)
 
-<!--
-**Debjyoti-G77/Debjyoti-G77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Interests: Machine Learning, Big Data, Data Visualization, Open-Source, Problem Solving  
+- Tools: Python, R, SQL, scikit-learn, PyTorch, OpenCV, Spark, Hadoop, MySQL, ArcGIS, Power BI  
+- Contact: **debjyotiashu66@gmail.com** • LinkedIn: https://www.linkedin.com/in/debjyoti-sengupta-ds
 
-Here are some ideas to get you started:
+## Selected Academic Projects (to be uploaded)
+- Rainfall Prediction (Australia) — Regression & classification (Python/R)
+- Diabetes & Churn Prediction — Supervised ML, feature engineering, evaluation
+- Crowd Detection (Computer Vision) — People counting & overcrowding alert (OpenCV, DL)
+- Biomedical Relation Classification — Directional extraction (A→B/B→A/None) (PyTorch, NLP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Repositories with code are being cleaned and added. For details, email me or see LinkedIn.
